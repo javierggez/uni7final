@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Archivos de build del módulo app
+app/build/
+# APKs generados (no subir binarios)
+app/debug/
+app/release/
+# Keystore (no subir por seguridad)
+*.jks
+*.keystore

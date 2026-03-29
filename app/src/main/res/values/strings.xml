@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MealApp</string>
+    <string name="splash_subtitle">Descubre recetas del mundo</string>
+    <string name="categories_title">Categorías</string>
+    <string name="detail_title">Detalle de Receta</string>
+    <string name="contact_title">Contacto</string>
+    <string name="contact_subtitle">Envíanos un mensaje y te responderemos pronto</string>
+    <string name="contact_name">Nombre completo</string>
+    <string name="contact_email">Correo electrónico</string>
+    <string name="contact_message">Mensaje</string>
+    <string name="send_email">Enviar por Email</string>
+    <string name="send_whatsapp">Enviar por WhatsApp</string>
+    <string name="error_loading">Error al cargar los datos. Verifica tu conexión.</string>
+    <string name="retry">Reintentar</string>
+    <string name="back">Volver</string>
+    <string name="refresh">Actualizar</string>
+    <string name="ingredients_title">Ingredientes</string>
+    <string name="instructions_title">Instrucciones</string>
+    <string name="email_subject">Contacto desde MealApp - %s</string>
+    <string name="whatsapp_message">Hola, soy %s. %s</string>
+</resources>
